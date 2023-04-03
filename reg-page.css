@@ -1,3 +1,7 @@
 .filter-content[_ngcontent-odf-c237]{
   display: none;
 }
+
+div {
+  background: red;
+}
