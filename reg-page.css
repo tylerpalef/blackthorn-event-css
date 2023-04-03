@@ -1,3 +1,7 @@
 button > span:contains("Add All") {
-  display: none;
+  display: none !important;
+}
+
+div{
+  background: red !important;
 }
