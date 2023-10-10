@@ -6,6 +6,6 @@
   /* background: aqua !important; */
 }
 
-.button.mat-focus-indicator.quarter-width.add-all-btn.filter-field.mat-stroked-button.mat-button-base.mat-primary {
+button.mat-focus-indicator.quarter-width.add-all-btn.filter-field.mat-stroked-button.mat-button-base.mat-primary {
   display: none !important;
 }
